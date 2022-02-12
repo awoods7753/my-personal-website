@@ -1,3 +1,18 @@
 body {
-    background: blue;
+    background: rgba(146, 146, 148, 0.527);
+}
+
+.hyperlinks h1{
+    color:blue;
+    display: inline;
+    float: left;
+    text-align: center;
+    width: 33%;
+}
+
+#bannerimage {
+    width: 100%;
+    background-image: url(https://i.imgur.com/BvxfGeM.jpg?1);
+    height: 300px;
+    position: inline;
 }
