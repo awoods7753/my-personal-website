@@ -7,7 +7,7 @@ body {
     display: inline;
     float: left;
     text-align: center;
-    width: 33%;
+    width: 50%;
 }
 
 #bannerimage {
@@ -15,4 +15,18 @@ body {
     background-image: url(https://i.imgur.com/BvxfGeM.jpg?1);
     height: 300px;
     position: inline;
+}
+
+#family {
+    float: left;
+    margin-right: 50px;
+}
+
+#paragraph {
+    margin-left: 100px;
+    margin-top: 220px;
+    margin-right: 900px;
+    line-height: 2;
+    text-align: left;
+    vertical-align: text-bottom;
 }
