@@ -20,6 +20,7 @@ body {
 #family {
     float: left;
     margin-right: 50px;
+    margin-bottom: 100px;
 }
 
 #paragraph {
@@ -29,4 +30,15 @@ body {
     line-height: 2;
     text-align: left;
     vertical-align: text-bottom;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(3, 3, 3);
+    height: 50px;
+    color: azure;
+    text-align: center;
 }
